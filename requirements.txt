@@ -4,3 +4,7 @@ pandas
 numpy
 matplotlib
 seaborn
+gunicorn
+scipy
+scikit-learn
+
